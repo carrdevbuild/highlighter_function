@@ -1,0 +1,18 @@
+html, body, div, form, fieldset, legend, label {
+    margin: 0;
+    padding: 0;
+}
+/*<!-- carr stephen 2017 copyright.  all rights reserved.-->*/
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/*<!-- carr stephen 2017 copyright.  all rights reserved.-->*/
+th, td {
+    text-align: left;
+    vertical-align: top;
+}
+/*<!-- carr stephen 2017 copyright.  all rights reserved.-->*/
+h1, h2, h3, h4, h5, h6, th, td, caption { font-weight: normal; }
+img { border: 0; }
+/*<!-- carr stephen 2017 copyright.  all rights reserved.-->*/
